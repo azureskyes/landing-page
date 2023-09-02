@@ -199,11 +199,11 @@ button.subcont1-signup {
 
 .subcont3-attrib {
     display: flex;
-    align-self: flex-end;
+    align-self: center;
     font-size: 25px;
     font-weight: 550;
     color: #1F2937;
-    padding-right: 210px;
+    padding-left: 540px;
 }
 
 /* subcont 4 */
