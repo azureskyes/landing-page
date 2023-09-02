@@ -1,7 +1,7 @@
 # landing-page
 This is a repository for Project: Landing Page from The Odin Project.
 
-This is a culmination of the Flexbox portion of The Odin Project's curriculum. 
+This is a culmination of the Flexbox portion of The Odin Project's Foundations curriculum. 
 It was a fun project. These types of layouts allows for flexibility of input of whatever a product/company/service might want to show clients.
 
 ----
